@@ -1,0 +1,297 @@
+/* Page container */
+.page-container {
+    position: relative;
+    min-height: 100vh;
+    display: block;
+}
+
+/* content-wrap */
+.content-wrap {
+    padding-bottom: 2.5rem;
+
+}
+
+.body {
+    overflow-x: hidden;
+}
+
+/* Nav bar */
+
+.header_main {
+    display: block;
+    padding: 50px;
+    background-color: rgb(255, 235, 210);
+    border-bottom:solid grey;
+}
+
+.center-nav {
+    display: block;
+    word-spacing: 10px;
+    color: black;
+    background-color: rgb(255, 235, 210);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: auto;
+  
+
+}
+/* Search bar */
+.right-nav {
+    float: inline-end;
+    float: right;
+    font-size: 15px;
+    color: black;
+    cursor: auto;
+    padding: 6px;
+    margin-top: -95px;
+    margin-right: -50px;
+    letter-spacing: 1px;
+    appearance: auto;
+    box-sizing: border-box;
+}
+
+/* logo */
+.logo {
+    display: center;
+    position: relative;
+    left: 500px!important;
+    margin-top: -80px!important;
+    padding-top: 160px;
+    top: 20px;
+    height: 0%;
+}
+/* Shop the Christmas Collection (homepage) */
+.Shop_our_Christmas_collection {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 180px;
+    background-color: ivory;
+}
+
+
+/* shop christmas collection/best sellers/journal carosoul (homepage) */
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    color: grey;
+    height: 650px;
+    width: 650px;
+    position: center;
+    display: block;
+    left: 400px!important;
+    margin-top: 0px!important;
+    padding-top: 50px;
+    top: 0px;
+    cursor: pointer;
+    transition: transform 2s ease, opacity .5s ease-out
+}
+
+.carousel-indicators {
+box-sizing: content-box;
+flex: 0 1 auto;
+width: 0px;
+height: 3px;
+padding: 0px;
+margin-right: 3px;
+margin-left: 3px;
+text-indent: -999px;
+cursor: pointer;
+background-color:rgb(255, 235, 210);
+background-clip: padding-box;
+border: 0;
+border-top: 10px
+solid transparent;
+border-bottom: 10px
+solid transparent;
+transition: transform 2s ease, opacity .5s ease-out
+}
+
+.button {
+    color: black;
+    position: absolute;
+    float: center;
+    cursor: pointer;
+    padding: 6px;
+    border-bottom: 10px;
+    margin-right: 50px;
+    appearance: auto;
+    box-sizing: border-box;
+}
+
+/* view more (home page) */
+.view_more {
+    position: relative;
+    float: right;
+    float: top;
+    font-size: 15px;
+    border: none;
+    cursor: auto;
+    padding: 6px;
+    border-bottom: 10px;
+    margin-right: 100px;
+    letter-spacing: 1px;
+    appearance: auto;
+    box-sizing: border-box;
+
+}
+
+/* Shop the best sellers (home page) */
+.Shop_our_Best_Sellers {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 80px;
+    background-color: ivory;
+}
+
+/* shop christmas collection/best sellers/journal carosoul (homepage) */
+.carousel-inner_2 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    color: grey;
+    height: 650px;
+    width: 650px;
+    position: center;
+    display: block;
+    left: 400px!important;
+    margin-top: 0px!important;
+    padding-top: 50px;
+    top: 0px;
+    cursor: pointer;
+    transition: transform 2s ease, opacity .5s ease-out
+}
+
+.carousel-indicators_2 {
+box-sizing: content-box;
+flex: 0 1 auto;
+width: 0px;
+height: 3px;
+padding: 0px;
+margin-right: 3px;
+margin-left: 3px;
+text-indent: -999px;
+cursor: pointer;
+background-color:rgb(255, 235, 210);
+background-clip: padding-box;
+border: 0;
+border-top: 10px
+solid transparent;
+border-bottom: 10px
+solid transparent;
+transition: transform 2s ease, opacity .5s ease-out
+}
+
+/* Shop our journals (homepage) */
+.View_our_Self-Care_Journals {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 80px;
+    background-color: ivory;
+}
+
+/* shop christmas collection/best sellers/journal carosoul (homepage) */
+.carousel-inner_3 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    color: grey;
+    height: 650px;
+    width: 650px;
+    position: center;
+    display: block;
+    left: 400px!important;
+    margin-top: 0px!important;
+    padding-top: 50px;
+    top: 0px;
+    cursor: pointer;
+    transition: transform 2s ease, opacity .5s ease-out
+}
+
+.carousel-indicators_3 {
+box-sizing: content-box;
+flex: 0 1 auto;
+width: 0px;
+height: 3px;
+padding: 0px;
+margin-right: 3px;
+margin-left: 3px;
+text-indent: -999px;
+cursor: pointer;
+background-color:rgb(255, 235, 210);
+background-clip: padding-box;
+border: 0;
+border-top: 10px
+solid transparent;
+border-bottom: 10px
+solid transparent;
+transition: transform 2s ease, opacity .5s ease-out
+}
+
+/* footer */
+
+.footer {
+    background-color: rgb(255, 235, 210);
+    border-bottom:solid gray;
+    border-top: solid grey;
+    position: absolute;
+    display: block;
+    padding-bottom: 0px;
+    align-items: center;
+    margin-bottom: 0px;
+    width: 100%;
+    height: 9rem;
+    
+}
+
+.Get_in_Touch {
+    font-size: 20px;
+    text-align: left;
+    color:black;
+    display: block;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+
+.Follow_us_on_Instagram{
+    font-size: 20px;
+    text-align: right;
+    color:black;
+    display: block;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+/* copy right */
+.copy_right {
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    padding: 5px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

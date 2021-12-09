@@ -1,0 +1,55 @@
+.outcome {
+    text-align: center;
+    font-weight: lighter;
+    padding: 5px;
+    color: black;
+    margin-top: 180px;
+    background-color: ivory;
+    margin-left: 50px ;
+    margin-right: 80px;
+    padding-bottom: 10px;
+}
+
+.outcome1 {
+    text-align: center;
+    font-weight: lighter;
+    padding: 5px;
+    color: black;
+    margin-top: 50px;
+    background-color: ivory;
+    margin-left: 50px ;
+    margin-right: 80px;
+    padding-bottom: 10px;
+}
+
+.outcome2 {
+    text-align: center;
+    font-weight: lighter;
+    padding: 5px;
+    color: black;
+    margin-top: 50px;
+    background-color: ivory;
+    margin-left: 50px ;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+
+
+.score {
+    font-size: 25px;
+    font-weight: lighter;
+    text-decoration: underline;
+
+}
+
+.if_so {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.response {
+    font-size: 15px;
+
+}

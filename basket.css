@@ -1,0 +1,38 @@
+/* stop horizontal scroll */
+.body {
+    overflow-x: hidden;
+}
+
+/* main page header */
+.header {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 180px;
+    background-color: ivory;
+}
+
+/* page subheading */
+.header_2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: -10px;
+    background-color:transparent;
+}
+
+    /* continue shopping  */
+.Continue_Shopping {
+    display: center;
+    position: absolute;
+    left: 650px!important;
+    margin-top: 300px!important;
+    padding-top: 280px;
+    top: 50px;
+    
+
+}

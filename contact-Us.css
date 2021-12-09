@@ -1,0 +1,66 @@
+/* stop horizontal scroll */
+.body {
+    overflow-x: hidden;
+}
+
+/* main page header */
+.header_1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 200px;
+    background-color: ivory;
+}
+
+/* page subheading */
+.header_2 {
+    font-size: 35px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    background-color:transparent;
+}
+
+/* page text */
+.header_3 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    background-color:transparent;
+}
+
+.Order_form {
+    text-align:center;
+    
+}
+
+.text {
+    width: 30%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.text_Message {
+    width: 50%;
+    height: 20%;
+    text-align:start;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}

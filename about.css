@@ -1,0 +1,49 @@
+/* stop horizontal scroll */
+.body {
+    overflow-x: hidden;
+}
+
+/* Who are we heading */
+.heading_1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 180px;
+    background-color: ivory;
+}
+
+/* who are we text/ stroy /aim */
+.body_text {
+    font-size: 15px;
+    text-align: center;
+    font-weight: thick;
+    padding: 10px;
+    color: black;
+    margin-top: 50px;
+    background-color:transparent;
+}
+
+/* our story heading */
+.heading_2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 50px;
+    background-color: ivory;
+}
+
+/* our aim heading */
+.heading_3 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: ivory;
+}

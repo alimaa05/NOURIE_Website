@@ -1,0 +1,55 @@
+/* stop horizontal scroll */
+.body {
+    overflow-x: hidden;
+}
+
+/* main page header */
+.text-aestheticH1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 200px;
+    background-color: ivory;
+}
+
+/* page subheading */
+.text-aestheticH2 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    background-color:transparent;
+}
+
+/* page text */
+.text-aesthetic {
+    font-size: 15px;
+    text-align: center;
+    font-weight: thick;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    background-color:transparent;
+}
+
+/* Three image containers */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    padding-left: 50px;
+  }
+  
+  /* Clear floats after image containers */
+  .row {
+    content: "";
+    clear: both;
+    display: table;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+

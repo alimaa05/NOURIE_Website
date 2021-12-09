@@ -1,0 +1,50 @@
+/* stop horizontal scroll */
+.body {
+  overflow-x: hidden;
+}
+
+/* main page header */
+.Shop_all_Nourie_Journal_Products {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 200px;
+    background-color: ivory;
+}
+
+/* Three image containers */
+.digital_journal {
+    float: left;
+    width: 20%;
+    padding: 5px;
+  }
+
+ /* Clear floats after image containers */
+ .row {
+    content: "";
+    clear: both;
+    display: table;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .Journal_text {
+    margin-left: 20px ;
+    margin-right: 1px;
+  }
+
+  .Add_to_Cart {
+    margin-left: 20px;
+}
+
+.Journal_text_2 { 
+  margin-left: 20px ;
+  margin-right: 1px;
+}
+
+.Add_to_Cart_2 {
+  margin-left: 20px;
+}
+  

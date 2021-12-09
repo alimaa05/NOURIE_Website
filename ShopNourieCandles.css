@@ -1,0 +1,42 @@
+/* stop horizontal scroll */
+.body {
+  overflow-x: hidden;
+}
+
+/* main page header */
+.Shop_all_Nourie_Candle_Products {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 200px;
+    background-color: ivory;
+}
+
+/* Three image containers */
+.Nourie_Candle_Products {
+    float: left;
+    width: 33.33%;
+    padding: 20px;
+  }
+
+ /* Clear floats after image containers */
+ .row {
+    content: "";
+    clear: both;
+    display: table;
+    margin-left: 15px;
+    margin-right: 15px;
+
+  }
+
+  .CandleText {
+    margin-left: 30px ;
+  }
+
+  .Add_to_Cart {
+    margin-left: 30px;
+    margin-bottom: -320px;
+}
+

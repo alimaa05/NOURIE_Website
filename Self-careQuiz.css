@@ -1,0 +1,54 @@
+/* stop horizontal scroll */
+.body {
+    overflow-x: hidden;
+}
+
+/* main page header */
+.Header_1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 200px;
+    background-color: ivory;
+}
+
+/* page subheading */
+.Header_2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    background-color:transparent;
+}
+
+/* page text */
+.Header_3 {
+    font-size: 15px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: thick;
+    padding: 10px;
+    color: black;
+    margin-top: 25px;
+    background-color:transparent;
+}
+
+.Questions {
+    font-size: 20px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 10px;
+    color: black;
+    margin-top: -5px;
+    background-color: ivory;
+    margin-bottom: 50px;
+
+}
+
+.CountHowMany {
+    font-size: 15px;
+}
